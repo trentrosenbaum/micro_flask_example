@@ -1,0 +1,17 @@
+# generator info
+name: Python Flask Microservice
+group: atomist-project-templates
+artifact: flask-service
+version: 1.0.7
+
+# backing git repo
+repo: git@github.com:atomist-project-templates/flask-service.git
+branch: master
+sha: 81cc7f737f046dd10a2d20a54672dbb7f91574ec
+
+# parameter values
+project_name: micro_flask_example
+app_name: MicroFlaskExample
+version: 0.1.0
+description: This is a sample flask app create with a atomist project template
+
